@@ -8,15 +8,15 @@ gems: [jekyll-gist,jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Here for the beer
+title:            Digital Frameworks Blog for Hannah Rank
 tagline:          'Summer Quarter 2016'
 description:      'Needs no explanation.'
 url:              http://digitalframeworks.github.io
 baseurl:          /
 
 author:
-  name:           'David Eads'
-  url:            https://twitter.com/eads
+  name:           'Hannah Rank"
+  url:            https://twitter.com/sreknar
 
 paginate:         15
 
