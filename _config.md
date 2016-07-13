@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Digital Frameworks Blog for Hannah Rank
 tagline:          'Summer Quarter 2016'
-description:      'Needs no explanation.'
+description:      'Self explanatory.'
 url:              http://digitalframeworks.github.io
 baseurl:          /
 
