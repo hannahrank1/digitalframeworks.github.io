@@ -28,7 +28,7 @@ sass:
 
 # Custom vars
 navlinks:
-- url: https://nwudigitalframeworks.slack.com/messages/general/
+- url: https://hannahrank1.slack.com/messages/general/
   title: Slack
-- url: mailto:davideads@gmail.com
+- url: mailto: hannahrank@gmail.com
   title: Email
